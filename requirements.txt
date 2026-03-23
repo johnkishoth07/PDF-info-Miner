@@ -1,3 +1,4 @@
 streamlit==1.35.0
 PyPDF2==3.0.1
 regex==2024.5.15
+protobuf<4
